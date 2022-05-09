@@ -12,7 +12,7 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
  
 
- <a>
+ <a style='display=flex'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout=compact" />
  </a>
