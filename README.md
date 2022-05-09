@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Actualmente estoy estudiando una Tecnología en Análisis y Desarrollo de Software
 - 💼 &nbsp; Estudio por mi propia cuenta viendo videos,participando en charlas y en cursos 
-- ✍️ &nbsp; Me  gusta  investigar y aprender cosas  nuevas  y lo mejor es  cuando poner en practica estos conocimientos  y despues de  mucho sufrimiento veo los                     resultados  
+- ✍️ &nbsp; Me  gusta  investigar y aprender cosas  nuevas  y lo mejor es  cuando poner en practica estos conocimientos  y despues de  mucho sufrimiento veo los                                 resultados  
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout=compact" />
