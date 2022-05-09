@@ -12,10 +12,10 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
  
 
- <a style='display=flex'>
+ <a >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout=compact" />
- </a>
+ 
 
 
 <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank"><img alt="portafolio" src="https://img.shields.io/badge/Website-Portafolio-007ACC"></a>
