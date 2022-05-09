@@ -15,9 +15,6 @@ You can click the Preview link to take a look at your chan
 </a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
