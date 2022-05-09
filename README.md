@@ -9,7 +9,10 @@ You can click the Preview link to take a look at your chan
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brinezlopez08@gmail.com)
 <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank"><img alt="portafolio" src="https://img.shields.io/badge/Website-Portafolio-007ACC"></a>
 
-
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
