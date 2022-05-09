@@ -5,7 +5,9 @@ andres-brinez/andres-brinez is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your chan
 --->
 # Hola  soy Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-# [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-bri%C3%B1ez/)
+#[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-bri%C3%B1ez/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brinezlopez08@gmail.com)
+
 
 
 
