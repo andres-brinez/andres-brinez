@@ -16,4 +16,4 @@ me  pueden contactar  al correo brinezlopez08@gmail.com
 Linkedin:https://www.linkedin.com/in/andres-bri%C3%B1ez/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
