@@ -18,6 +18,8 @@
  
 
  <h3>🤝🏻 &nbsp;Connect with Me </h3>
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/andres-bri%C3%B1ez/')
+  <p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]('https://www.linkedin.com/in/andres-bri%C3%B1ez/')
   <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank"><img alt="portafolio" src="https://img.shields.io/badge/Website-Portafolio-007ACC"></a>
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brinezlopez08@gmail.com)
+</p
