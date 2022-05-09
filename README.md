@@ -1,4 +1,4 @@
-<h2>¡Hola!  soy Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>¡Hola! soy Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
 
