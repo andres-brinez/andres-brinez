@@ -13,3 +13,4 @@ Actualmente estoy  reforzando estos  conocimentos  por  medio de  cursos como Or
 busco seguir  aprendiendo cosas  nuevas  y poner  en practica  lo que aprenda.
 
 me  pueden contactar  al correo brinezlopez08@gmail.com
+Linkedin:https://www.linkedin.com/in/andres-bri%C3%B1ez/
