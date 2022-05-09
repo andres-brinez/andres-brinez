@@ -9,6 +9,9 @@
 - 💼 &nbsp; Estudio por mi propia cuenta viendo videos,participando en charlas y en cursos 
 - ✍️ &nbsp; Me  gusta  investigar y poner en practica  lo que aprendo 
  
+ 
+ 
+ 
 
  
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
