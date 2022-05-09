@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your chan
 <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank"><img alt="portafolio" src="https://img.shields.io/badge/Website-Portafolio-007ACC"></a>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout_icons=true" />
 </a>
 
