@@ -15,6 +15,4 @@ busco seguir  aprendiendo cosas  nuevas  y poner  en practica  lo que aprenda.
 me  pueden contactar  al correo brinezlopez08@gmail.com
 Linkedin:https://www.linkedin.com/in/andres-bri%C3%B1ez/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-brinez&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez)](https://github.com/anuraghazra/github-readme-stats)
