@@ -22,8 +22,10 @@
       src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"
       alt="Portafolio Andres Briñez" height="40" width="40" </a>
   <a mailto:brinezlopez08@gmail.com target="blank"><img align="center"
-      src="https://www.flaticon.es/icono-premium/email_3178232?term=correo%20electr%C3%B3nico&related_id=3178232"
+      src=" https://img.icons8.com/emoji/48/000000/e-mail.png"
       alt="Correo Andres Briñez Andres Briñez" height="40" width="40" </a>
+     
+    
       
 </p>
   <h3>Connect conmigo 🏻 </h3>
