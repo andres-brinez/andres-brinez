@@ -20,10 +20,10 @@
       alt="Andres Briñez" height="30" width="40" /></a>
    <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="blank"><img align="center"
       src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"
-      alt="Portafolio Andres Briñez" height="40" width="40" </a>
+      alt="Portafolio Andres Briñez" height="40" width="40"/> </a>
   <a mailto:brinezlopez08@gmail.com target="blank"><img align="center"
       src=" https://img.icons8.com/emoji/48/000000/e-mail.png"
-      alt="Correo Andres Briñez Andres Briñez" height="40" width="40" </a>
+      alt="Correo Andres Briñez Andres Briñez" height="40" width="40"/></a>
      
     
       
