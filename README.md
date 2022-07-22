@@ -17,9 +17,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-bri%C3%B1ez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Andres Briñez" height="30" width="40" /></a><a href="https://andres-brinez.github.io/proyecto-portafolio/" target="blank"><img align="center"
+      alt="Andres Briñez" height="30" width="40" /></a>
+   <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="blank"><img align="center"
       src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"
-      alt="Portafolio Andres Briñez" height="30" width="40" /
+      alt="Portafolio Andres Briñez" height="40" width="40" /
 </p>
   <h3>Connect conmigo 🏻 </h3>
 
