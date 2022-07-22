@@ -1,6 +1,6 @@
 <h1 align=center>¡Hola! mi nombre es Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<div align= center style="margin-bottom:100px" >
+<div align= center margin-bottom=100px >
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
  🎓  Actualmente estoy estudiando una Tecnología en Análisis y Desarrollo de Software
