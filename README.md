@@ -20,11 +20,17 @@
       alt="Andres Briñez" height="30" width="40" /></a>
    <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="blank"><img align="center"
       src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"
-      alt="Portafolio Andres Briñez" height="40" width="40" /
+      alt="Portafolio Andres Briñez" height="40" width="40" </a>
+  <a mailto:brinezlopez08@gmail.com target="blank"><img align="center"
+      src=" https://www.flaticon.es/icono-premium/email_3178232?term=correo%20electr%C3%B3nico&related_id=3178232"
+      alt="Correro Andres Briñez Andres Briñez" height="40" width="40" </a>
+      
 </p>
   <h3>Connect conmigo 🏻 </h3>
+  
+ 
 
      [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]('')
     <a href="" target="_blank"><img alt="portafolio" src="https://img.shields.io/badge/Website-Portafolio-007ACC"></a>
-     [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brinezlopez08@gmail.com)
+     [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)])
 
