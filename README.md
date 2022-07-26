@@ -18,6 +18,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"height="40" /> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
  <img src="https://i.pinimg.com/564x/09/7b/34/097b349ab1d78c15744c3a89ff457939--technology-logo-vector-free.jpg" alt="mysql" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40" />
