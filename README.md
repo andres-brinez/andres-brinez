@@ -20,7 +20,7 @@
  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40" /> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github" width="40" height="40" />
- <img  src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)" alt="Visual Studio" width="40" height="40" />
+ <img  src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio" width="40" height="40" />
     
 <!--     </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
