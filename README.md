@@ -15,9 +15,10 @@
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  alt="html5" width="40" height="40" />
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
  <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript" width="40" height="40"  />
+ <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"  alt="java" width="40"height="40"  />
- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40" /> 
+ <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github" width="40" height="40" />
  <img  src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio" width="40" height="40" />
