@@ -27,6 +27,18 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://i.pinimg.com/564x/09/7b/34/097b349ab1d78c15744c3a89ff457939--technology-logo-vector-free.jpg"
       alt="mysql" width="40" height="40" />
+   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> 
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"
+      height="40" /> 
+    </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40"
+      height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="40"
+      height="40" /> </a>
+    
 <!--     </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -34,26 +46,19 @@
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> -->
         
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
+
 <!--     </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>  -->
 <!--     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"
-      height="40" /> </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40"
-      height="40" /> </a>
+  
 <!--     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
       src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
       height="40" /> </a> -->
   
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="40"
-      height="40" /> </a>
+    
     
 </p>
 
