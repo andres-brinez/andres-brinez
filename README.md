@@ -7,7 +7,7 @@
 - 💼 &nbsp; Estudio por mi propia cuenta viendo videos,participando en charlas y en cursos 
 - 🖥️ &nbsp; Estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 - ✍️ &nbsp; Me  gusta  investigar y aprender cosas  nuevas
-- ❤️ &nbsp; Me encanta  poner en practica mis conocimientos  y después de mucho esfuerzo ver los resultados 
+- ❤️ &nbsp; Me encanta  poner en práctica mis conocimientos  y después de mucho esfuerzo ver los resultados 
 
 <br>
 <h2 align="center">⚡ Skills ⚡</h2>
