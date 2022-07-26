@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Actualmente estoy estudiando una Tecnología en Análisis y Desarrollo de Software
 - 💼 &nbsp; Estudio por mi propia cuenta viendo videos,participando en charlas y en cursos 
 - ✍️ &nbsp; Me  gusta  investigar y aprender cosas  nuevas
-- ❤️ &nbsp; Me encanta  poner en practica min conocimientos  y después de mucho esfuerzo ver los resultados 
+- ❤️ &nbsp; Me encanta  poner en practica mis conocimientos  y después de mucho esfuerzo ver los resultados 
    
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
