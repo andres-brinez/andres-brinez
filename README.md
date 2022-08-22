@@ -1,5 +1,5 @@
 <h1 align=center>¡Hola! mi nombre es Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2 align=center>Estudiante Junior Developer</h2>
+<h2 align=center>Soy Estudiante Junior Developer</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Actualmente estoy estudiando una Tecnología en Análisis y Desarrollo de Software
