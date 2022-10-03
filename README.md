@@ -55,6 +55,8 @@
 <p align=center>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout=compact" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andres-brinez&hide_border=falso)](https://git.io/streak-stats)
+
 </p>
 
 <br>
