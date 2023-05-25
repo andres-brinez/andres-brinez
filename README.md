@@ -61,6 +61,16 @@
 
 <br>
 
+<p>
+ Mi presencia en GitHub refleja mi compromiso con el código limpio, la colaboración y el aprendizaje continuo.
+
+A través de mis repositorios, podrás explorar proyectos donde he aplicado mis habilidades en HTML, CSS y JavaScript para crear sitios web modernos y responsivos. También podrás encontrar proyectos donde he utilizado frameworks como React y Vue.js para desarrollar aplicaciones web interactivas.
+
+Estoy constantemente buscando nuevas formas de mejorar y expandir mis conocimientos en el campo del desarrollo web. Me encanta experimentar con nuevas tecnologías y aprender de la comunidad de desarrolladores en GitHub.
+
+Si estás interesado en colaborar en proyectos emocionantes o si tienes alguna pregunta sobre mis proyectos, no dudes en explorar mi perfil y contactarme. ¡Estoy ansioso por conectarme con otros desarrolladores apasionados y contribuir al crecimiento y éxito de la comunidad de código abierto en GitHub!"
+ </p>
+
 
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
