@@ -1,6 +1,7 @@
 <h1 align=center>¡Hola! mi nombre es Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2 align=center>Desarrollador  web Trainee</h2>
 
+<hr>
 
 <p>
  Mi presencia en GitHub refleja mi compromiso con el código limpio, la colaboración y el aprendizaje continuo.
