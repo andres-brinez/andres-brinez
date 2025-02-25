@@ -1,5 +1,5 @@
 <h1 align=center>¡Hola! mi nombre es Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2 align=center>Desarrollador  web Trainee</h2>
+<h2 align=center>Desarrollador  full stack</h2>
 
 <br>
 
