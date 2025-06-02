@@ -1,92 +1,57 @@
-<h1 align=center>¡Hola! mi nombre es Andres Briñez  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2 align=center>Desarrollador  full stack</h2>
+<h1 align="center">¡Hola! Mi nombre es Andres Briñez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center">Desarrollador Full Stack en formación</h2>
 
 <br>
 
 <p>
- Mi presencia en GitHub refleja mi compromiso con el código limpio, la colaboración y el aprendizaje continuo.
-
-A través de mis repositorios, podrás explorar proyectos donde he aplicado mis habilidades en HTML, CSS y JavaScript para crear sitios web modernos y responsivos.
+ Mi presencia en GitHub refleja mi compromiso con el código limpio, la colaboración y el aprendizaje continuo.  
  
-Estoy constantemente buscando nuevas formas de mejorar y expandir mis conocimientos en el campo del desarrollo web. Me encanta experimentar con nuevas tecnologías y aprender de la comunidad de desarrolladores en GitHub.
-
-Si estás interesado en colaborar en proyectos emocionantes o si tienes alguna pregunta sobre mis proyectos, no dudes en explorar mi perfil y contactarme. ¡Estoy ansioso por conectarme con otros desarrolladores apasionados y contribuir al crecimiento y éxito de la comunidad de código abierto en GitHub!"
- </p>
+Soy tecnólogo en Análisis y Desarrollo de Software, estudiante avanzado, y he participado en proyectos académicos y personales donde he aplicado mis habilidades en desarrollo backend con Java y Spring Boot, así como frontend con React y JavaScript.  
  
- <br>
+Me especializo en crear soluciones limpias y eficientes aplicando principios como SOLID y buenas prácticas de programación. Además, tengo experiencia en integración de bases de datos y consumo de APIs REST, lo que me permite construir aplicaciones completas y funcionales.  
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Actualmente estoy estudiando una Tecnología en Análisis y Desarrollo de Software
-- 💼 &nbsp; Estudio por mi propia cuenta viendo videos,participando en charlas y en cursos 
-- 🖥️ &nbsp; Estoy aprendiendo Desarrollo Web y otros lenguajes de programación
-- ✍️ &nbsp; Me  gusta  investigar y aprender cosas  nuevas
-- ❤️ &nbsp; Me encanta  poner en práctica mis conocimientos  y después de mucho esfuerzo ver los resultados 
+Estoy siempre en búsqueda de nuevos aprendizajes y me encanta experimentar con nuevas tecnologías. Si te interesa colaborar o quieres saber más de mis proyectos, no dudes en explorar mi perfil y contactarme. ¡Estoy emocionado por conectar con otros desarrolladores y crecer en la comunidad de código abierto!
+</p>
 
 <br>
-<h2 align="center">⚡ Skills ⚡</h2>
+
+<h3>👨🏻‍💻 &nbsp;Sobre mí</h3>
+
+- 🎓 &nbsp; Tecnólogo en Análisis y Desarrollo de Software, estudiante avanzado.  
+- 💼 &nbsp; Experiencia práctica en proyectos académicos y personales, enfocados en desarrollo backend y frontend.  
+- 🖥️ &nbsp; Desarrollo backend con Java y Spring Boot, frontend con React y JavaScript.  
+- ✍️ &nbsp; Apasionado por investigar, aprender y aplicar nuevas tecnologías.  
+- ❤️ &nbsp; Disfruto ver el resultado de mi esfuerzo reflejado en proyectos funcionales y bien diseñados.
+
+<br>
+
+<h2 align="center">⚡ Habilidades Técnicas ⚡</h2>
 <p align="center"> 
- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  alt="html5" width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
- <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript" width="40" height="40"  />
- <img src="https://img.icons8.com/color/48/000000/json--v1.png"  alt="json" width="40"height="40"/>
- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"  alt="java" width="40"height="40"  />
- <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40" /> 
- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> 
- <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" alt="github" width="40" height="40" />
- <img  src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio" width="40" height="40" />
-    
-<!--     </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> -->
-        
-
-<!--     </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>  -->
-<!--     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> -->
-  
-<!--     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
-      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
-      height="40" /> </a> -->
-    
-<!--     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>  -->
-  
-    
-    
-</p>
-
-<br>
-  
-
-<p align=center>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&theme==buefy&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&themebuefy&layout=compact" />
-
-
+ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40" />
+ <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="javascript" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/json--v1.png" alt="json" width="40" height="40" />
+ <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40" />
+ <img src="https://img.icons8.com/fluency/48/000000/spring-logo.png" alt="spring boot" width="40" height="40" />
+ <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" />
 </p>
 
 <br>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres-brinez&show_icons=true&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-brinez&layout=compact&theme=buefy" />
+</p>
 
+<br>
 
-
-<h3 align="left">Connect with me 🤝</h3>
+<h3 align="left">Conecta conmigo 🤝</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/andres-bri%C3%B1ez/" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Andres Briñez" height="30" width="40" /></a>
-   <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank"><img align="center"
-      src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"
-      alt="Portafolio Andres Briñez" height="40" width="40"/> </a>
-      
+  <a href="https://www.linkedin.com/in/andres-bri%C3%B1ez/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andres Briñez LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://andres-brinez.github.io/proyecto-portafolio/" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png" alt="Portafolio Andres Briñez" height="40" width="40" />
+  </a>
 </p>
-
